@@ -5,3 +5,14 @@ html, body {
   display: block;
   background-color: var(--main-bg-color);
 }
+
+/* templates */
+@import '../components/templates/Home/Home';
+
+/* organisms */
+@import '../components/UI/organisms/Header/Header';
+
+/* atoms */
+@import '../components/UI/atoms/Icon/Icon';
+
+

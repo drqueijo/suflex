@@ -1,0 +1,14 @@
+.icon {
+    svg {
+        path {
+            fill: var(--main-bg-color)
+        }
+    }
+
+    &--big {
+        svg {
+            width: 4rem;
+            height: 4rem;
+        }
+    }
+}
